@@ -22,3 +22,4 @@
 ![IMG_2691](https://github.com/user-attachments/assets/53504ada-2a9f-4848-9572-d28399103bf2)
 
 ### Activity 2
+[MG 2 Commit](https://github.com/UCI-GDIM32-W25/mg2-KalebJReyes/commit/9a96456762c297bee54ff1db4b967586b1ce9391)
