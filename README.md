@@ -16,3 +16,9 @@
 
 ### Activity 3
 [MG 1 Break-down](https://docs.google.com/document/d/1ZloeI2O3HLCZUm7UvvfKdylog4EuKHg3eZPcW1Tevz0/edit?usp=sharing)
+
+## W2
+### Activity 1
+![IMG_2691](https://github.com/user-attachments/assets/53504ada-2a9f-4848-9572-d28399103bf2)
+
+### Activity 2
