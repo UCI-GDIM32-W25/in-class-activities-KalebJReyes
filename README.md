@@ -23,3 +23,11 @@
 
 ### Activity 2
 [MG 2 Commit](https://github.com/UCI-GDIM32-W25/mg2-KalebJReyes/commit/9a96456762c297bee54ff1db4b967586b1ce9391)
+
+## W3
+### Activity 0 - 2
+My partner is Sebastian Magana
+
+### Activity 3
+<img width="957" height="1500" alt="MG 3 Break-Down" src="https://github.com/user-attachments/assets/f69a7900-b041-433a-be67-676df937b59f" />
+
