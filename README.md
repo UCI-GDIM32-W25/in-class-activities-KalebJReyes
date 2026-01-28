@@ -31,3 +31,9 @@ My partner is Sebastian Magana
 ### Activity 3
 <img width="957" height="1500" alt="MG 3 Break-Down" src="https://github.com/user-attachments/assets/f69a7900-b041-433a-be67-676df937b59f" />
 
+## W4
+### Activity 0
+Partner: Sebastian Magana
+
+### Activity 1
+When I ran the game, all but one of the locator objects lost the locator component. This happened because in the Locator script, it checks if an instance of locator already exists and if it does, it destroys the component. If it doesn't, the locator is set as the instance.
