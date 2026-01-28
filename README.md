@@ -37,3 +37,6 @@ Partner: Sebastian Magana
 
 ### Activity 1
 When I ran the game, all but one of the locator objects lost the locator component. This happened because in the Locator script, it checks if an instance of locator already exists and if it does, it destroys the component. If it doesn't, the locator is set as the instance.
+
+### Activity 2
+<img width="1334" height="1180" alt="MG 4 Break-Down" src="https://github.com/user-attachments/assets/b7312468-c403-4e9b-8126-cc1c63e36eac" />
