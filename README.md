@@ -40,3 +40,7 @@ When I ran the game, all but one of the locator objects lost the locator compone
 
 ### Activity 2
 <img width="1334" height="1180" alt="MG 4 Break-Down" src="https://github.com/user-attachments/assets/b7312468-c403-4e9b-8126-cc1c63e36eac" />
+
+### Activity 3
+[MG 4 Commit](https://github.com/KalebJReyes/HW4/commit/a4862776433da71739800b501ae3fb6b20edf749)
+In this commit, I added the player, pipes, and Game Controller scripts. The player can jump, the pipes spawn at a certain position, and the pipes get destroyed at a certain x position.
