@@ -1,7 +1,8 @@
 using System.Collections.Generic;
+using UnityEditor.Tilemaps;
 using UnityEngine;
 
-/*
+
 
 public class W5Activity1 : MonoBehaviour
 {
@@ -66,15 +67,20 @@ public class Axe : Item, IBreakable {
 		Debug.Log("attacking with axe");
 		Damage(1.0f);
 	}
+
+	public void Break() { 
+		//Created for the purpose of the interface
+	}
 }
 
 public class ElvenSword : Item {
-	public void Use () {
+	public override void Use () {
 		Debug.Log("attacking with Elven sword");
 	}
 }
 
 public class Torch : Item, IBreakable {
+	private float _durability = 1;
 	
 	public void Damage (float damage) {
 		_durability -= damage;
@@ -85,14 +91,13 @@ public class Torch : Item, IBreakable {
 		}
 	}
 	
-	public void BreakItem () {
+	public void Break () {
 		Debug.Log("torch is broken!");
 	}
 	
-	protected override void Use () {
+	public override void Use () {
 		Debug.Log("lighting area with torch");
 		Damage(1.0f);
 	}
 }
 
-*/
