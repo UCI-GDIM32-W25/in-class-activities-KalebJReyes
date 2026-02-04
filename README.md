@@ -44,3 +44,7 @@ When I ran the game, all but one of the locator objects lost the locator compone
 ### Activity 3
 [MG 4 Commit](https://github.com/KalebJReyes/HW4/commit/a4862776433da71739800b501ae3fb6b20edf749)
 In this commit, I added the player, pipes, and Game Controller scripts. The player can jump, the pipes spawn at a certain position, and the pipes get destroyed at a certain x position.
+
+## W5
+### Activity 1
+I think the design of the interfaces and abstract classes are solid for a project like this. With the items used, it makes sense to have an abstract class for items and a seperate interface class for breakable items since not all items will be designed to break. I also think the item class works well as an abstract for future items that may not be useable but are still items. I don't see a reason to change this design if I were doing this project myself.
