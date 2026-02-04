@@ -48,3 +48,20 @@ In this commit, I added the player, pipes, and Game Controller scripts. The play
 ## W5
 ### Activity 1
 I think the design of the interfaces and abstract classes are solid for a project like this. With the items used, it makes sense to have an abstract class for items and a seperate interface class for breakable items since not all items will be designed to break. I also think the item class works well as an abstract for future items that may not be useable but are still items. I don't see a reason to change this design if I were doing this project myself.
+
+### Activity 2
+The scriptable objects and Enemy stats represent the model aspect as they hold game data in some way, the view aspect is represented by the dialogue bubble and inventory UI classes, and the controller aspect is represented by the Player class.
+
+### Activity 3
+Scenario 1: 
+The beats in the rhythm game can be represented by prefabs with scriptable objects tied to them. The scriptable object can contain where in the song the beat needs to be hit or other data tied to the notes.
+
+Scenario 2: 
+In a team shooter, the model aspect could be represented by the stats of each ability, the view aspect could be represented by the animations and sounds, and the controller aspect could be represented by the activation of abilities.
+
+Scenario 3:
+For scenario 3, I see how all of the design patterns can be used in the making of the game. This game can easily become very complex so have a MVC with C# events could help decouple them. Inheritance with polymorphism can work when you have multiple items that do similar things like being able to use them. The finite state machine could be used for animation states; like when the player is walking, planting seeds, hitting rocks, etc. A singleton can be used in a GameController as a locator. Scriptable objects can be used to give different plant types their own stats.
+
+### Activity 4
+Attendance: Kaleb Reyes, Sebastian Magana, Jess Tran
+Proposal: [Final Project Proposal First Draft](https://docs.google.com/document/d/11WOaLqc5etO8rKHDXbb_FdNeKd7ZzC0tJGFpK8PWQyE/edit?usp=sharing)
