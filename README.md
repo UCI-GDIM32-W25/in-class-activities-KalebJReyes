@@ -65,3 +65,31 @@ For scenario 3, I see how all of the design patterns can be used in the making o
 ### Activity 4
 Attendance: Kaleb Reyes, Sebastian Magana, Jess Tran
 Proposal: [Final Project Proposal First Draft](https://docs.google.com/document/d/11WOaLqc5etO8rKHDXbb_FdNeKd7ZzC0tJGFpK8PWQyE/edit?usp=sharing)
+
+## W6
+### Activity 1
+Gizmos
+- OnDrawGizmos is a method like Update or Start where it doesn’t need to be called
+- Making a dedicated gizmos script can make it so you can add it to other game objects with similar colliders/rigidbodies and not just one
+- Gizmos are only visible in the scene view and not the game view
+- This can be used to visualize the player’s interaction distance in our game
+Profiling
+- LEARN THIS. IT’S IMPORTANT FOR THE FUTURE
+- Profiler helps you diagnose your game and see what is causing your game to become extremely laggy
+- To open the profiler, got to Window -> Analysis -> Profiler
+- With the profiler open, run the game and you can pause the game at a certain frame and see what is causing lag
+- This can be useful if we ever run into an issue where our game is laggy when we run it
+- The two most important columns in the profiler hierarchy are overview and time m/s
+- Having multiple objects with complex colliders could be a big reason why the game lags
+- Work is split between two processors: CPU and GPU
+- CPU runs program logic
+- GPU renders the frame
+Breakpoint
+- With a breakpoint, you can run your game and pause it once the program hits a certain line.
+- This can help if you get an error and are not sure what exactly is causing it
+- If you click the empty space to the left of a line’s number, you add a breakpoint. To continue, press Attach to Unity and start your program.
+- Once your program hits the line with the breakpoint, Unity pauses and VS shows you what happened while your code ran; such as variable values and what methods were called
+
+### Activity 2
+Attendance: Kaleb Reyes & Jess Tran / Sebastian Magana is attending GDW
+Proposal: [Final Project Proposal Final Draft](https://docs.google.com/document/d/11WOaLqc5etO8rKHDXbb_FdNeKd7ZzC0tJGFpK8PWQyE/edit?usp=sharing)
