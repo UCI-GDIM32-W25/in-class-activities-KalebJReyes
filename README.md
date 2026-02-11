@@ -73,6 +73,7 @@ Gizmos
 - Making a dedicated gizmos script can make it so you can add it to other game objects with similar colliders/rigidbodies and not just one
 - Gizmos are only visible in the scene view and not the game view
 - This can be used to visualize the player’s interaction distance in our game
+
 Profiling
 - LEARN THIS. IT’S IMPORTANT FOR THE FUTURE
 - Profiler helps you diagnose your game and see what is causing your game to become extremely laggy
@@ -84,6 +85,7 @@ Profiling
 - Work is split between two processors: CPU and GPU
 - CPU runs program logic
 - GPU renders the frame
+
 Breakpoint
 - With a breakpoint, you can run your game and pause it once the program hits a certain line.
 - This can help if you get an error and are not sure what exactly is causing it
