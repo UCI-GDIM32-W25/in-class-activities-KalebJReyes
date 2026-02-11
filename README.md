@@ -94,4 +94,5 @@ Breakpoint
 
 ### Activity 2
 Attendance: Kaleb Reyes & Jess Tran / Sebastian Magana is attending GDW
+
 Proposal: [Final Project Proposal Final Draft](https://docs.google.com/document/d/11WOaLqc5etO8rKHDXbb_FdNeKd7ZzC0tJGFpK8PWQyE/edit?usp=sharing)
