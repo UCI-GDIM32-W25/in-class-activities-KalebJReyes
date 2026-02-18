@@ -96,3 +96,25 @@ Breakpoint
 Attendance: Kaleb Reyes & Jess Tran / Sebastian Magana is attending GDW
 
 Proposal: [Final Project Proposal Final Draft](https://docs.google.com/document/d/11WOaLqc5etO8rKHDXbb_FdNeKd7ZzC0tJGFpK8PWQyE/edit?usp=sharing)
+
+## W7
+### Activity 1
+- Duck uses raycast for their line of sight
+- _raycastStart is the point where the raycast begins
+- _raycastDir is the direction that the raycast is pointing in
+- When the player is in the duck’s line of sight, the duck enters its pursue state
+- Spherecast can help NPCs know when they are running into an obstacle
+- Gizmos can be used to check raycasts
+
+### Activity 2
+Attendance: Kaleb Reyes, Jess Tran, Sebastian Magana
+
+### Activity 3
+<img width="1300" height="1284" alt="Final Project Breakdown" src="https://github.com/user-attachments/assets/82ac6354-4e5f-4a49-8ac3-4003933cff42" />
+
+### Activity 4
+[Trello Board with our Tasks](https://trello.com/invite/b/69951f944f330958a4e6bf2f/ATTI17ad7db252f5940d0bfb947c93137da4F101C3AD/goofy-goobers-final-tasks)
+
+### Activity 5
+
+
