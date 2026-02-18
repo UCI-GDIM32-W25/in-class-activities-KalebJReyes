@@ -116,5 +116,5 @@ Attendance: Kaleb Reyes, Jess Tran, Sebastian Magana
 [Trello Board with our Tasks](https://trello.com/invite/b/69951f944f330958a4e6bf2f/ATTI17ad7db252f5940d0bfb947c93137da4F101C3AD/goofy-goobers-final-tasks)
 
 ### Activity 5
-
-
+[Final Project Commit](https://github.com/aconitephoenix/GDIM32-Final/commit/6e61ec015224cc707f4bae467da758e820faf403)
+In this commit, I added the main scene and added the terrain game object in it and played with lighting to try to make it look dark. 
