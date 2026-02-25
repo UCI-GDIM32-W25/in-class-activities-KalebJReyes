@@ -134,3 +134,12 @@ In this commit, I added the main scene and added the terrain game object in it a
 
 ### Activity 2
 Attendance: Kaleb Reyes, Jess Tran, Sebastian Magana
+
+### Activity 3
+- Player movement is good and responsive
+- Sprint bar and sprint depletion works
+- Jumped off world, need to add terrain and boundaries
+- Itch description for controls is good, need to add click to interact when implemented
+
+### Activity 4
+I will be working on researching and implementing a night skybox texture and trying to figure out how to code interactions
