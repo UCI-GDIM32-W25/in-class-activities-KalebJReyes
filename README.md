@@ -118,3 +118,19 @@ Attendance: Kaleb Reyes, Jess Tran, Sebastian Magana
 ### Activity 5
 [Final Project Commit](https://github.com/aconitephoenix/GDIM32-Final/commit/6e61ec015224cc707f4bae467da758e820faf403)
 In this commit, I added the main scene and added the terrain game object in it and played with lighting to try to make it look dark. 
+
+## W8
+### Activity 1
+- A rendering pipeline is a sequence of instructions of how everything will be drawn in a game
+- Shaders are a part of the rendering pipeline
+- Unity has many different rendering pipelines
+- Likely chose built-in or a scriptable rendering pipeline (URP or HDRP)
+- Post processing effects are shaders that affect the look of the entire screen
+- Steps to add post processing (built in pipeline):
+1. Install post processing package
+2. Make a new object
+3. Put it on the post processing layer
+4. Add the post-processing volume component to it
+
+### Activity 2
+Attendance: Kaleb Reyes, Jess Tran, Sebastian Magana
