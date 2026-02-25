@@ -143,3 +143,7 @@ Attendance: Kaleb Reyes, Jess Tran, Sebastian Magana
 
 ### Activity 4
 I will be working on researching and implementing a night skybox texture and trying to figure out how to code interactions
+
+### Activity 5
+[Final Project Commit](https://github.com/aconitephoenix/GDIM32-Final/commit/d3074e14d1fa7b06c32401d660a1f9e8b9104693)
+In this commit, I added a new skybox and attached a spot light to the player to replicate a flashlight.
