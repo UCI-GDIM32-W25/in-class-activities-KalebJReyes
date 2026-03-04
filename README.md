@@ -166,3 +166,8 @@ Attendance: Kaleb Reyes, Jess Tran, Sebastian Magana
 
 ### Activity 4
 According to what we have on our trello board, we seem to be about halfway done with the tasks we have. With two weeks done and four weeks total to work, we are on track to finishing on time. 
+
+### Activity 5
+[Final Project Commit](https://github.com/aconitephoenix/GDIM32-Final/commit/6f17a856b083c3453ed8c8efd4a2e6393eb60320)
+
+In this commit, I worked on a script that teleports the player to a new area when they interact with a door.
