@@ -147,3 +147,22 @@ I will be working on researching and implementing a night skybox texture and try
 ### Activity 5
 [Final Project Commit](https://github.com/aconitephoenix/GDIM32-Final/commit/d3074e14d1fa7b06c32401d660a1f9e8b9104693)
 In this commit, I added a new skybox and attached a spot light to the player to replicate a flashlight.
+
+## W9
+### Activity 1
+- An architectural solution will scale well if, when the program is handling lots of data is performant and is easy for users to add more data
+- When there are two NPC that have branching dialogue, a dedicated dialogue controller may be needed
+- Branching dialogue needs to be scaled well to allow writers to put in data easily
+
+### Activity 2
+Attendance: Kaleb Reyes, Jess Tran, Sebastian Magana
+
+### Activity 3
+- He liked how it gave clear instructions to get the page
+- Need to add indicator or highlight on the page so that its more clear where to go
+- Indicator for the NPC that they are interactable
+- Add the rest of the content
+- Add Compass for page navigation (Slenderman Tentacle)
+
+### Activity 4
+According to what we have on our trello board, we seem to be about halfway done with the tasks we have. With two weeks done and four weeks total to work, we are on track to finishing on time. 
