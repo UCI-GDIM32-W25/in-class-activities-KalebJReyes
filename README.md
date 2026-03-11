@@ -171,3 +171,25 @@ According to what we have on our trello board, we seem to be about halfway done 
 [Final Project Commit](https://github.com/aconitephoenix/GDIM32-Final/commit/6f17a856b083c3453ed8c8efd4a2e6393eb60320)
 
 In this commit, I worked on a script that teleports the player to a new area when they interact with a door.
+
+## W10
+### Activity 1
+Attendance: Kaleb Reyes, Jess Tran, Sebastian Magana
+
+### Activity 2
+Mac
+- White Screen on shader (now fixed!!)
+
+General
+- Make the NPC's from gray boxes to actual npcs
+- Door should be more apparent to the player
+- Dialogue choice after quest is finished werent properly showing
+- Arrow should be on top layer
+
+### Activity 3
+Reflecting back on how much my team was able to get done in the past week, I think we may need to scale down a bit or lock in and work extra hard this week. As we stand now, I don't think we are on track to finishing on time with the scope we have
+
+### Activity 4
+[Final Project Commit](https://github.com/aconitephoenix/GDIM32-Final/commit/7ad355e399a94ffbc569d04d4dc8fd248ace0029)
+
+In this commit, I changed the script for the arrow to switch to the closest page to the player. 
